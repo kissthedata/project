@@ -3,7 +3,7 @@
 > 프로젝트 정리
 
 ## Space Titanic
-* [스페이스 타이나닉 kaggle competition](https://github.com/kissthedata/project/blob/30337a9e1789b8fa63bbf145227870acd3d78450/App%20Activity%202/Data_Analysis_based_on_app_activity2.ipynb)
+* [스페이스 타이나닉 kaggle competition](https://github.com/kissthedata/project/blob/999e936cadf35dd13a3f3f0bcd0a544016950483/Space%20Titanic/Kaggle%20Space%20TItanic.ipynb)
   * 목적지 행성 도착한 인원 분류
 
 ## App Activity2
