@@ -1,6 +1,6 @@
 # Project
 
-> 프로젝트 정리
+> 개인 프로젝트 정리
 
 ## Prediction secondhand car prices
 * [Predict secondhand car prices](https://github.com/kissthedata/project/blob/02af38cd7a78d24366d3f68786c48e838c37c4f6/Prediction%20secondhand%20car%20prices/Prediction%20secondhand%20car%20prices.ipynb)
