@@ -2,6 +2,10 @@
 
 > 개인 프로젝트 정리
 
+## Prediction ipo market open price
+* Prediction ipo market open price
+  * IPO 시초가 예측 
+
 ## Prediction secondhand car prices
 * [Predict secondhand car prices](https://github.com/kissthedata/project/blob/02af38cd7a78d24366d3f68786c48e838c37c4f6/Prediction%20secondhand%20car%20prices/Prediction%20secondhand%20car%20prices.ipynb)
   * 중고차량 가격 예측 (데이콘 베이직 경진대회)
