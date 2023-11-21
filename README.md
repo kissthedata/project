@@ -1,6 +1,10 @@
 # Project
 
 > 개인 프로젝트 정리
+## POSTECH Solar Power Generation Ensemble Forecast
+* Develop an ensemble technique that can improve prediction performance by understanding and utilizing the characteristics of these various prediction models.
+  *  기 개발된 5종 모형의 예측값 앙상블 예측
+    
 ## Prediction of ship waiting time
 * Development of ship wating time for green gas Reduction
   * 온실가스 감축을 위한 선박 대기 시간 예측 모형 개발
