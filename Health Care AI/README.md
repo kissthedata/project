@@ -1,6 +1,12 @@
 # Contest Objetive
 치과 구강이미지 합성 데이터 분양의 헬스케어 AI 경진대회이며, 구강이미지 내 충치 유무 판별 모델 개발을 목표로 함.
 
+# Participants
+Team Name : DATA TRIP
+- Namjin Baek
+- Dahyeon Lee
+- Jinseon Park
+  
 # Competition Schedule
 - 참 가 신 청 : 2023년 11월 30일(금) ~ 12월 05(화)
 - 대 회 참 가 : 2023년 12월 11일(월) ~ 12월 15(금) 18:00 까지
