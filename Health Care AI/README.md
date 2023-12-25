@@ -1,5 +1,4 @@
-![<img width="1012" alt="image" src="https://github.com/kissthedata/project/assets/96707384/2413ebd3-5070-4276-ae25-01348a1ef4c7">
-]()
+![<img width="1012" alt="image" src="https://github.com/kissthedata/project/assets/96707384/2413ebd3-5070-4276-ae25-01348a1ef4c7">]()
 
 # Contest Objetive
 치과 구강이미지 합성 데이터 분양의 헬스케어 AI 경진대회이며, 구강이미지 내 충치 유무 판별 모델 개발을 목표로 함.
