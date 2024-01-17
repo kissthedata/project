@@ -1,6 +1,10 @@
 # Project
 
 > 개인 프로젝트 정리
+## Development teeth Cravity Classification model (Health Care AI)
+* Dental raw data field, development of cavity classification model in oral images
+  * 치과 구강이미지 합성 데이터 분야, 구강이미지 내 충치 유무 판별 모델 개발
+  
 ## POSTECH Solar Power Generation Ensemble Forecast
 * Develop an ensemble technique that can improve prediction performance by understanding and utilizing the characteristics of these various prediction models.
   *  기 개발된 5종 모형의 예측값 앙상블 예측
