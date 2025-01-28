@@ -26,6 +26,8 @@
 - 주최측에서 Resnet기반 모델 사용을 권장하였으며, resnet50_binary 모델 사용
 - 일부 참가자의 GPU 독점 이슈로, 배치 사이즈(16) 및 에폭 수(6)를 낮게 설정함.
 - 손실함수는 CrossEntropyLoss, 옵티마이저는 Adam(lr=0.001).
+- **백남진 역할: VM 가상환경 Linux Command 주 작성 + 코드 일부 수정**
+
 
 # Resnet
 - 충치가 하나라도 있으면 True로 출력하는 Resnet기반 모델을 개발함.
