@@ -1,7 +1,7 @@
 # Project
 
 > 개인 프로젝트 정리
-## 공공데이터 활용 나드리콜 개선 해커톤
+## Nadricall
 * Hackathon to improve Nadricall using public data
   * 대구 나드리콜 택시 운영 개선을 위해 공공데이터를 활용하여 개선 아이디어를 제안하는 해커톤
 
